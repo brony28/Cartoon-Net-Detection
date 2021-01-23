@@ -11,7 +11,7 @@ Keep the following things inside the Preparartion folder:<br>
 <br>
 <br>
 The images folder will have 2 folders - <br> 
-a. test <br>
+a. **test** <br>
 b. train
 <br><br>
 The train folder will have all the annotated training images and its corresponding xml file.
