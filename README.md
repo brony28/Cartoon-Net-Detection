@@ -9,7 +9,7 @@ Keep the following things inside the Preparartion folder:<br>
 4. labelmap.pbtxt
 5. train.py
 <br>
-The images folder will have 2 folders: <br> 
+The images folder will have 2 folders:<br> 
 1. __test__
 2. __train__
 <br><br>
