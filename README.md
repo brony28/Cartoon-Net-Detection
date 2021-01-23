@@ -8,11 +8,13 @@ Keep the following things inside the Preparartion folder:
 3. generate_tfrecord.py
 4. labelmap.pbtxt
 5. train.py
-<br>
+
+
 The images folder will have 2 folders:
-1. __test__
-2. __train__
-<br><br>
+1. one __test__
+2. two __train__
+
+
 The train folder will have all the annotated training images and its corresponding xml file.
 The test folder will have all the annotated testing images and its corresponding xml file.
 The testing images should be less than training images. In this project, only 7 images were used for testing dataset.
