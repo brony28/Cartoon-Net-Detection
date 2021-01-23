@@ -9,9 +9,9 @@ Keep the following things inside the Preparartion folder:<br>
 4. labelmap.pbtxt
 5. train.py
 <br>
-<br>
 The images folder will have 2 folders: <br> 
-__test__ <br> __train__
+1. __test__
+2. __train__
 <br><br>
 The train folder will have all the annotated training images and its corresponding xml file.
 The test folder will have all the annotated testing images and its corresponding xml file.
