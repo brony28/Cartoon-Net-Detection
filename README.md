@@ -1,2 +1,2 @@
 # Cartoon-Net-Detection
-Cartoon Detection using Fast R-CNN
+Cartoon Detection using Faster R-CNN
