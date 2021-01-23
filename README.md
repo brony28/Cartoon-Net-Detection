@@ -10,7 +10,9 @@ Keep the following things inside the Preparartion folder:<br>
 5. train.py<br>
 <br>
 <br>
-The images folder will have 2 folders - <br> a. **test** <br>  b. **train** .
+The images folder will have 2 folders - <br> 
+a. **test** <br>
+b. **train** .
 <br><br>
 The train folder will have all the annotated training images and its corresponding xml file.
 The test folder will have all the annotated testing images and its corresponding xml file.
