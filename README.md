@@ -2,14 +2,14 @@
 Cartoon Detection using Faster R-CNN
 
 Create a folder named Preparation. <br>
-Keep the following things inside the Preparartion folder:<br>
+Keep the following things inside the Preparartion folder:
 1. a folder named **images**
 2. faster_rcnn_inception_v2_pets.config
 3. generate_tfrecord.py
 4. labelmap.pbtxt
 5. train.py
 <br>
-The images folder will have 2 folders:<br> 
+The images folder will have 2 folders:
 1. __test__
 2. __train__
 <br><br>
