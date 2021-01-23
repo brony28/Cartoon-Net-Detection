@@ -21,8 +21,8 @@ The testing images should be less than training images. In this project, only 7 
 <br><br>
 labelmap.pbtxt will store the classes that is used in detection. In this project, 5 classes are used.
 <br><br>
-Next, in the generate_tfrecord.py file, update the function _class_text_to_int()_ with the class names used in the project. 
+Next, in the generate_tfrecord.py file, update the function `class_text_to_int()` with the class names used in the project. 
 <br><br>
-In faster_rcnn_inception_v2_pets.config file, update the number of classes _num_classes:_ with your classes count. And number of examples _num_examples:_ with the count of number of test images you included.
+In faster_rcnn_inception_v2_pets.config file, update the number of classes `num_classes:` with your classes count. And number of examples `num_examples:` with the count of number of test images you included.
 <br><br>
 No need to edit the train.py
