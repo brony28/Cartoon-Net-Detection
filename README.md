@@ -11,8 +11,8 @@ Keep the following things inside the Preparartion folder:
 
 
 The images folder will have 2 folders:
-1. one __test__
-2. two __train__
+1.  __test__
+2. __train__
 
 
 The train folder will have all the annotated training images and its corresponding xml file.
