@@ -1,6 +1,10 @@
 # Cartoon-Net-Detection
-Cartoon Detection using Faster R-CNN
 
+### Cartoon Detection using Faster R-CNN
+
+
+### Steps:
+#### Setup:
 Create a folder named Preparation. <br>
 Keep the following things inside the Preparartion folder:
 1. a folder named **images**
@@ -26,3 +30,5 @@ Next, in the generate_tfrecord.py file, update the function `class_text_to_int()
 In faster_rcnn_inception_v2_pets.config file, update the number of classes `num_classes:` with your classes count. And number of examples `num_examples:` with the count of number of test images you included.
 <br><br>
 No need to edit the train.py
+
+#### 
