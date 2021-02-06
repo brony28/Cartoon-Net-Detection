@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_PASCAL VOC</folder>
+	<filename>cartoon208.jpg</filename>
+	<path>F:\Cartoon Object Detection\dataset_PASCAL VOC\cartoon208.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>287</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mcqueen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>48</ymin>
+			<xmax>256</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

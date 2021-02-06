@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_PASCAL VOC</folder>
+	<filename>cartoon9.jpg</filename>
+	<path>F:\Cartoon Object Detection\dataset_PASCAL VOC\cartoon9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>163</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mickey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>104</ymin>
+			<xmax>163</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

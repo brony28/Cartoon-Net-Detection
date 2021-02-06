@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset_PASCAL VOC</folder>
+	<filename>cartoon199.jpg</filename>
+	<path>F:\Cartoon Object Detection\dataset_PASCAL VOC\cartoon199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>312</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doraemon</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>53</ymin>
+			<xmax>298</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

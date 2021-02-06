@@ -1,0 +1,26 @@
+<annotation>
+	<folder>testdata</folder>
+	<filename>test4.jpg</filename>
+	<path>F:\Cartoon Object Detection\testdata\test4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>566</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mickey</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>46</ymin>
+			<xmax>769</xmax>
+			<ymax>566</ymax>
+		</bndbox>
+	</object>
+</annotation>
