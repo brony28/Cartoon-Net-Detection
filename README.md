@@ -33,7 +33,7 @@ No need to edit the train.py
 Now zip the Preparation Folder and upload the zipped file on the Google Drive.(Preferably inside a folder.)<br>
 Upload the jupyter notebook files as well on the drive.<br>
 
-#### Training the model
+### Training the model
 Open the notebook, __Part 1: Training Model using final_faster_rcnn.ipynb__ and run every cell.<br>
 
 ### Testing the model
