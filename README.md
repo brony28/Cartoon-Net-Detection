@@ -44,4 +44,4 @@ Open the notebook, __Part 3: TF to TFLite.ipynb__ and run every cell.<br>
 
 ### Output: 
 
-![picture alt](https://github.com/brony28/Cartoon-Net-Detection/blob/main/result.jpeg "Cartoon Detection")
+![picture alt](https://github.com/brony28/Cartoon-Net-Detection/blob/main/result.jpeg?raw=true "Cartoon Detection")
