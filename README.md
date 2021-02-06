@@ -1,9 +1,8 @@
 # Cartoon-Net-Detection
+Cartoon Detection using Faster R-CNN
 
-### Cartoon Detection using Faster R-CNN
+## Steps:
 
-
-### Steps:
 #### Setup:
 Create a folder named Preparation. <br>
 Keep the following things inside the Preparartion folder:
@@ -30,10 +29,15 @@ Next, in the generate_tfrecord.py file, update the function `class_text_to_int()
 In faster_rcnn_inception_v2_pets.config file, update the number of classes `num_classes:` with your classes count. And number of examples `num_examples:` with the count of number of test images you included.
 <br><br>
 No need to edit the train.py
-
-Now zip the Preparation Folder and upload the zipped file on the Google Drive.(Preferably inside a folder.)
-
-Upload the jupyter notebook files as well on the drive.
+<br><br>
+Now zip the Preparation Folder and upload the zipped file on the Google Drive.(Preferably inside a folder.)<br>
+Upload the jupyter notebook files as well on the drive.<br>
 
 #### Training the model
-Open the notebook, __Part 1: Training Model using final_faster_rcnn.ipynb__ and run every cell. 
+Open the notebook, __Part 1: Training Model using final_faster_rcnn.ipynb__ and run every cell.<br>
+
+### Testing the model
+Open the notebook, __ __ and run every cell.<br>
+
+### TF to TFLite Conversion
+Open the notebook, __ __ and run every cell.<br>
