@@ -31,4 +31,9 @@ In faster_rcnn_inception_v2_pets.config file, update the number of classes `num_
 <br><br>
 No need to edit the train.py
 
-#### 
+Now zip the Preparation Folder and upload the zipped file on the Google Drive.(Preferably inside a folder.)
+
+Upload the jupyter notebook files as well on the drive.
+
+#### Training the model
+Open the notebook, __Part 1: Training Model using final_faster_rcnn.ipynb__ and run every cell. 
