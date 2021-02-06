@@ -3,7 +3,7 @@ Cartoon Detection using Faster R-CNN
 
 ## Steps:
 
-#### Setup:
+### Setup:
 Create a folder named Preparation. <br>
 Keep the following things inside the Preparartion folder:
 1. a folder named **images**
@@ -37,7 +37,7 @@ Upload the jupyter notebook files as well on the drive.<br>
 Open the notebook, __Part 1: Training Model using final_faster_rcnn.ipynb__ and run every cell.<br>
 
 ### Testing the model
-Open the notebook, __ __ and run every cell.<br>
+Open the notebook, __Part 2: Cartoon Detection.ipynb__ and run every cell.<br>
 
 ### TF to TFLite Conversion
-Open the notebook, __ __ and run every cell.<br>
+Open the notebook, __Part 3: TF to TFLite.ipynb__ and run every cell.<br>
