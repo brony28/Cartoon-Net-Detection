@@ -41,3 +41,7 @@ Open the notebook, __Part 2: Cartoon Detection.ipynb__ and run every cell.<br>
 
 ### TF to TFLite Conversion
 Open the notebook, __Part 3: TF to TFLite.ipynb__ and run every cell.<br>
+
+### Output: 
+
+![picture alt](https://github.com/brony28/Cartoon-Net-Detection/blob/main/result.jpeg "Cartoon Detection")
