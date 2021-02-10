@@ -34,7 +34,7 @@ Now zip the Preparation Folder and upload the zipped file on the Google Drive.(P
 Upload the jupyter notebook files as well on the drive.<br>
 
 ### Training the model
-Open the notebook, __Part 1: Training Model using final_faster_rcnn.ipynb__ and run every cell.<br>
+Open the notebook, __Part 1: Training Model using faster_rcnn.ipynb__ and run every cell.<br>
 
 ### Testing the model
 Open the notebook, __Part 2: Cartoon Detection.ipynb__ and run every cell.<br>
